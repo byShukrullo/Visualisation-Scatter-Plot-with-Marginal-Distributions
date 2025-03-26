@@ -3,6 +3,9 @@
 ## Overview
 A Python implementation of a scatter plot with marginal distributions using Matplotlib. This visualization provides additional context about the distribution of data along x and y axes.
 
+# Example output
+![Visualization-Scatter-Plot-with-Marginal-Distributions](/output124.png)
+
 ## Requirements
 - Python 3.7+
 - Matplotlib
